@@ -1,0 +1,112 @@
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Semestre 2018-A\PHV\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\PERSONAL\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProveedor.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrestamo.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDevolucion.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDevolucion.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrestamo.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProveedor.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDevolucion.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrestamo.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProveedor.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVerLibros.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDevolucion.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrestamo.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProveedor.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVerLibros.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Semestre 2018-A\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAutores.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategorias.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDevolucion.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLibros.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrestamo.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmProveedor.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistroNuevoUsuario.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmVerLibros.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PERSONAL\Desktop\PROYECTO PHV 1erbimestre\6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
